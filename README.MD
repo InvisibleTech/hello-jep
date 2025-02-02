@@ -1,5 +1,10 @@
 # Running a Detection
 
+This project is a slightly improved version of a sample JAva application written to learn about
+using https://github.com/ninia/jep to run models from https://huggingface.co/. The project is discussed in more detail
+in this blog
+post https://aninvisiblefriend.com/zero-shot-object-detection-using-java-python-and-hugging-face-28bd7f298c48.
+
 ## Installing the Python Libraries
 
 Several attempts were made to get this project to run with the required JEP and PIL dependencies installed in a Python
